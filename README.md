@@ -11,11 +11,13 @@ Lab4: ioctl
   1.implement 3 different ioctls command
 
   2.understand the workflow of ioctl
+  
     1.validate the command: direction check and function number check
     2.validate the user space memory access right
     3.command excuted by switch
 
   3.what's the ioctl command format
+  
     direction size magic function
          1     24    8      8
          
