@@ -12,11 +12,11 @@ Lab4: ioctl
 
     2.Understand the workflow of ioctl
   
-      1.validate the command: direction check and function number check
+      2-1.validate the command: direction check and function number check
     
-      2.validate the user space memory access right
+      2-2.validate the user space memory access right
     
-      3.command excuted by switch
+      3-1.command excuted by switch
 
     3.What's the ioctl command format
   
