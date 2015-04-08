@@ -8,9 +8,9 @@ Lab3: a complex character device driver with semaphore 1.implement a device driv
 
 Lab4: ioctl
 
-    1.implement 3 different ioctls command
+    1.Implement 3 different ioctls command
 
-    2.understand the workflow of ioctl
+    2.Understand the workflow of ioctl
   
       1.validate the command: direction check and function number check
     
@@ -18,7 +18,7 @@ Lab4: ioctl
     
       3.command excuted by switch
 
-    3.what's the ioctl command format
+    3.What's the ioctl command format
   
       direction size magic function
     
