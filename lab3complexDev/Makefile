@@ -1,4 +1,4 @@
-DEBUG = n
+DEBUG = y
 ifeq ($(DEBUG),y)
 	DEBFLAGS = -Wall -g -DMYDEBUGLOG
 else

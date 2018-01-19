@@ -96,7 +96,6 @@ int mylist_exit(void){
 
 
 
-
 module_init(mylist_init);
 module_exit(mylist_exit);
 
